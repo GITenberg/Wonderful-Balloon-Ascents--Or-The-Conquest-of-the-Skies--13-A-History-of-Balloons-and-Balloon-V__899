@@ -1,0 +1,27 @@
+_repo: Wonderful-Balloon-Ascents--Or-The-Conquest-of-the-Skies--13-A-History-of-Balloons-and-Balloon-V__899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marion, Fulgence
+    alias: Marion, F. (Fulgence)
+    gutenberg_agent_id: '461'
+    url: http://www.gutenberg.org/2009/agents/461
+description: .zip version contains numerous picture files from the book
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '899'
+language: en
+language_note: From the French, 1870
+publication_note: '1870'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Balloon ascensions'
+- !lcsh 'Balloons'
+- GITenberg
+title: "Wonderful Balloon Ascents; Or, The Conquest of the Skies\r\nA History of Balloons\
+  \ and Balloon Voyages"
+url: http://www.gutenberg.org/ebooks/899
